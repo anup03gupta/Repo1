@@ -34,8 +34,8 @@
  <configuration>  
   <url>http://localhost:9090/manager/text</url>  
   <server>TomcatServer</server>    *(From maven > settings.xml)*
-  <username>admin</username>  
-  <password>password</password>   
+  <username>tomcat</username>  
+  <password>tomcat</password>   
  </configuration>   
 </plugin>
  </plugins>
